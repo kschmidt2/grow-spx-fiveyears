@@ -25,8 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
             text: null
         },
         data: {
-            googleSpreadsheetKey: '1B3YrD8-8CuVWEYUYNnYdiPSQuK5W8LIarki6xn0AjSQ',
-            // startColumn: 2,
+            googleSpreadsheetKey: '1nDXwhZ5kgrlofdP3bFSHzTtehtU9EFFcmWJeyNo_VEA',
             endColumn: 1
         },
         plotOptions: {
